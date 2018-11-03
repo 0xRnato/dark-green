@@ -8,16 +8,28 @@
     "vscode": "^1.28.0"
   },
   "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "VSCode",
     "Themes"
   ],
+  "preview": false,
+  "galleryBanner": {
+    "color": "#11131C",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/zRnatoNeto/dark-green",
   "author": {
     "name": "Renato Neto <rnato.netoo@gmail.com>",
     "url": "https://github.com/zRnatoNeto"
   },
-  "bugs": "https://github.com/zRnatoNeto/lgrstore/issues",
+  "bugs": "https://github.com/zRnatoNeto/dark-green/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zRnatoNeto/lgrstore"
+    "url": "https://github.com/zRnatoNeto/dark-green"
   },
   "contributes": {
     "themes": [
