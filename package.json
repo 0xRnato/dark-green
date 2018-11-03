@@ -1,0 +1,31 @@
+{
+  "name": "dark-green",
+  "displayName": "Dark Green",
+  "description": "A Dark Green for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "zRnatoNeto",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Renato Neto <rnato.netoo@gmail.com>",
+    "url": "https://github.com/zRnatoNeto"
+  },
+  "bugs": "https://github.com/zRnatoNeto/lgrstore/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zRnatoNeto/lgrstore"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Green-color-theme.json"
+      }
+    ]
+  }
+}
